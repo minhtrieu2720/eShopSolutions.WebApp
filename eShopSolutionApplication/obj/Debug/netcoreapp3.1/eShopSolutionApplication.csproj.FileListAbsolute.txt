@@ -2,3 +2,12 @@ D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplica
 D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.AssemblyInfoInputs.cache
 D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.AssemblyInfo.cs
 D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.csproj.CoreCompileInputs.cache
+D:\Project\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.exe
+D:\Project\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.deps.json
+D:\Project\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.runtimeconfig.json
+D:\Project\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.runtimeconfig.dev.json
+D:\Project\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.dll
+D:\Project\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.pdb
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.dll
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.pdb
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.genruntimeconfig.cache
