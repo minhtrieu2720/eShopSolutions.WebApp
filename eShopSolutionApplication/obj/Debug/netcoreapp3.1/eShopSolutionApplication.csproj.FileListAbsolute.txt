@@ -1,0 +1,4 @@
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.csprojAssemblyReference.cache
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.AssemblyInfoInputs.cache
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.AssemblyInfo.cs
+D:\Project\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.csproj.CoreCompileInputs.cache
