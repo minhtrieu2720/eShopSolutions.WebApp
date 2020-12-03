@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\eShopSolutions.Data\\eShopSolutions.Data.csproj": {}
+    "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\eShopSolutions.Data.csproj": {}
   },
   "projects": {
-    "D:\\Project\\eShopSolutions.Data\\eShopSolutions.Data.csproj": {
+    "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\eShopSolutions.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\eShopSolutions.Data\\eShopSolutions.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\eShopSolutions.Data.csproj",
         "projectName": "eShopSolutions.Data",
-        "projectPath": "D:\\Project\\eShopSolutions.Data\\eShopSolutions.Data.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\eShopSolutions.Data.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\eShopSolutions.Data\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -59,14 +63,6 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[5.0.0, )"
             },
