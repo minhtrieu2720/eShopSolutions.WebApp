@@ -7,3 +7,12 @@ C:\Users\ASUS\Videos\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolut
 C:\Users\ASUS\Videos\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Videos\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.dll
 C:\Users\ASUS\Videos\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.pdb
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.deps.json
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.dll
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutionApplication.pdb
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.AssemblyInfoInputs.cache
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.AssemblyInfo.cs
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.dll
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutionApplication.pdb

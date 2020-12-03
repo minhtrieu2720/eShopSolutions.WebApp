@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using eShopSolutions.Data.EF.eShopSolution.Data.EF;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -8,9 +9,9 @@ using System.Text;
 
 namespace eShopSolutions.Data.EF
 {
-    public class EShopDbContextFactory : IDesignTimeDbContextFactory<EShopDBContext>
+    public class EShopDbContextFactory : IDesignTimeDbContextFactory<EShopDbContext>
     {
-        EShopDBContext IDesignTimeDbContextFactory<EShopDBContext>.CreateDbContext(string[] args)
+        public EShopDbContext CreateDbContext(string[] args)
         {
             IConfigurationRoot configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
@@ -19,10 +20,10 @@ namespace eShopSolutions.Data.EF
 
             var connectionString = configuration.GetConnectionString("eShopSolutionDb");
 
-            var optionsBuilder = new DbContextOptionsBuilder<EShopDBContext>();
+            var optionsBuilder = new DbContextOptionsBuilder<EShopDbContext>();
             optionsBuilder.UseSqlServer(connectionString);
 
-            return new EShopDBContext(optionsBuilder.Options);
+            return new EShopDbContext(optionsBuilder.Options);
         }
     }
 }
