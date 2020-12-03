@@ -9,7 +9,8 @@
       "eShopSolutions.Application/1.0.0": {
         "dependencies": {
           "System.Linq.Dynamic.Core": "1.2.6",
-          "eShopSolutions.Data": "1.0.0"
+          "eShopSolutions.Data": "1.0.0",
+          "eShopSolutions.Utilities": "1.0.0"
         },
         "runtime": {
           "eShopSolutions.Application.dll": {}
@@ -1480,6 +1481,11 @@
         "runtime": {
           "eShopSolutions.Data.dll": {}
         }
+      },
+      "eShopSolutions.Utilities/1.0.0": {
+        "runtime": {
+          "eShopSolutions.Utilities.dll": {}
+        }
       }
     }
   },
@@ -2393,6 +2399,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "eShopSolutions.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eShopSolutions.Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

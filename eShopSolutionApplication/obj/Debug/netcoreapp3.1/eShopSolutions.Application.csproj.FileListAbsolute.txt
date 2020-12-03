@@ -10,3 +10,5 @@ C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\e
 C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutions.Application.csproj.CopyComplete
 C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutions.Application.dll
 C:\Users\ASUS\Videos\Training\eShopSolutionApplication\obj\Debug\netcoreapp3.1\eShopSolutions.Application.pdb
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutions.Utilities.dll
+C:\Users\ASUS\Videos\Training\eShopSolutionApplication\bin\Debug\netcoreapp3.1\eShopSolutions.Utilities.pdb

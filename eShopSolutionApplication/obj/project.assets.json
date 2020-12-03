@@ -1960,6 +1960,16 @@
         "runtime": {
           "bin/placeholder/eShopSolutions.Data.dll": {}
         }
+      },
+      "eShopSolutions.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/eShopSolutions.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopSolutions.Utilities.dll": {}
+        }
       }
     }
   },
@@ -6786,12 +6796,18 @@
       "type": "project",
       "path": "../eShopSolutions.Data/eShopSolutions.Data.csproj",
       "msbuildProject": "../eShopSolutions.Data/eShopSolutions.Data.csproj"
+    },
+    "eShopSolutions.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../eShopSolutions.Utilities/eShopSolutions.Utilities.csproj",
+      "msbuildProject": "../eShopSolutions.Utilities/eShopSolutions.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "System.Linq.Dynamic.Core >= 1.2.6",
-      "eShopSolutions.Data >= 1.0.0"
+      "eShopSolutions.Data >= 1.0.0",
+      "eShopSolutions.Utilities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6827,6 +6843,9 @@
           "projectReferences": {
             "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\eShopSolutions.Data.csproj": {
               "projectPath": "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Data\\eShopSolutions.Data.csproj"
+            },
+            "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Utilities\\eShopSolutions.Utilities.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Videos\\Training\\eShopSolutions.Utilities\\eShopSolutions.Utilities.csproj"
             }
           }
         }
