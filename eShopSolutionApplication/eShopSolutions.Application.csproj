@@ -5,12 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.6" />
+	  <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.6.0" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\eShopSolutions.Data\eShopSolutions.Data.csproj" />
     <ProjectReference Include="..\eShopSolutions.Utilities\eShopSolutions.Utilities.csproj" />
+    <ProjectReference Include="..\eShopSolutions.ViewModels\eShopSolutions.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

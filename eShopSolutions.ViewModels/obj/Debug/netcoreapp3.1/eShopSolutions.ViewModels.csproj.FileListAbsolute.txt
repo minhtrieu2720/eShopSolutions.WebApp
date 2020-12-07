@@ -1,0 +1,9 @@
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\bin\Debug\netcoreapp3.1\eShopSolutions.ViewModels.deps.json
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\bin\Debug\netcoreapp3.1\eShopSolutions.ViewModels.dll
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\bin\Debug\netcoreapp3.1\eShopSolutions.ViewModels.pdb
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\obj\Debug\netcoreapp3.1\eShopSolutions.ViewModels.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\obj\Debug\netcoreapp3.1\eShopSolutions.ViewModels.AssemblyInfoInputs.cache
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\obj\Debug\netcoreapp3.1\eShopSolutions.ViewModels.AssemblyInfo.cs
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\obj\Debug\netcoreapp3.1\eShopSolutions.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\obj\Debug\netcoreapp3.1\eShopSolutions.ViewModels.dll
+C:\Users\ASUS\Videos\Training\eShopSolutions.ViewModels\obj\Debug\netcoreapp3.1\eShopSolutions.ViewModels.pdb

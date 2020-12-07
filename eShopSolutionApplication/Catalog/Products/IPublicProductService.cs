@@ -1,9 +1,7 @@
-﻿using eShopSolutions.Application.Catalog.Products.Dtos;
-using eShopSolutions.Application.Catalog.Products.Dtos.Public;
-using eShopSolutions.Application.Dtos;
+﻿using eShopSolutions.ViewModels.Catalog.Common;
+using eShopSolutions.ViewModels.Catalog.Products;
 using System;
 using System.Collections.Generic;
-using System.Linq.Dynamic.Core;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,6 +9,8 @@ namespace eShopSolutions.Application.Catalog.Products
 {
     public interface IPublicProductService
     {
-        public PagedViewModel<ProductViewModel> GetALlByCategoryId(GetProductPagingRequest request);
+        Task<PagedViewModel<ProductViewModel>> GetAllByCategoryId(GetPublicProductPagingRequest request);
+
+        Task<List<ProductViewModel>> GetAll(string languageId);
     }
 }
